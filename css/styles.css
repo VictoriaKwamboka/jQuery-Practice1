@@ -1,0 +1,26 @@
+.form{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+input{
+    padding: 15px;
+}
+
+button{
+    padding: 15px;
+}
+/* img{
+    display: none;
+} */
+#img-showing{
+    display: none;
+}
+
+.clickable{
+    cursor: pointer;
+    color: #0088cc;
+}
+.clickable:hover{
+    text-decoration: underline;
+}
